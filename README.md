@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE3ODk3NjQsIm5iZiI6MTcxMTc4OTQ2NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzMwVDA5MDQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjNTcyYzZiY2I0NDlmMmZhYjhmMWQ1ODE5MDIxOWYxOGRiYTUxZDlmZmQxOGZhZjZhMGFlOWJlMDEyNjFhMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5U44R64H_B7Bl5LGKfF0JSjij8gsA8f5Tmo8Pv46VSI">
 
-- 🌱 I’m currently learning **React Native and Angular**
+- 🌱 I’m currently learning **React Native and Next.js**
 
 - 💬 Ask me about **React, JS and MySQL**
 
